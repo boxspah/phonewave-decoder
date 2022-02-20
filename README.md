@@ -10,6 +10,6 @@ Modifications made to adjust sensitivity for hardware setup and to improve reada
 2. Open the decoder file.
 3. Download [the Goertzel algorithm library](https://github.com/jacobrosenthal/Goertzel).
 4. Include the library in your IDE.
-  - In the Arduino IDE, this is under `Sketch > Include Library > Add .ZIP library`.
+    - In the Arduino IDE, this is under `Sketch > Include Library > Add .ZIP library`.
 5. Upload the code to your Arduino board.
-  - Tested with an Arduino Uno. You may have to adjust sensitivity for your specific hardware.
+    - Tested with an Arduino Uno. You may have to adjust sensitivity for your specific hardware.
